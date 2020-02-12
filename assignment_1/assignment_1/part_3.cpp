@@ -1,10 +1,11 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main()
 {
-	double input_number;
+	double input_number = 0;
 	double epsilon;
 	cout << "Enter number to find a square root of: \n";
 	cin >> input_number;
